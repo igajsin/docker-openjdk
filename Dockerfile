@@ -1,4 +1,4 @@
-FROM igorgaisin/docker-base:alpine
+FROM igorgajsin/docker-base:alpine
 MAINTAINER igor@gajsin.name
 
-RUN apk update; apk add apk add openjdk8-jre-base
+RUN apk update; apk add openjdk8-jre-base
